@@ -20,7 +20,7 @@ public class TrickyShops extends GenesisAddon {
 
     @Override
     public String getRequiredGenesisVersion() {
-        return "1.0.2";
+        return "1.0.0";
     }
 
     @Override
