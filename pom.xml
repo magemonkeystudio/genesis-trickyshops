@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>genesis-trickyshops</artifactId>
-    <version>1.0.0-R0.2-SNAPSHOT</version>
+    <version>1.0.0-R0.3-SNAPSHOT</version>
     <name>Genesis-TrickyShops</name>
     <description>Allows to create shops faster</description>
 
